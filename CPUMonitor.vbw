@@ -1,0 +1,4 @@
+frmMonitor = 0, 183, 1329, 1100, C, 0, 0, 1329, 183, C
+clsCPUUsage = 216, 71, 1193, 819, C
+clsCPUUsageNT = 0, 0, 1329, 1100, C
+mdMisc = -80, 48, 897, 796, 
